@@ -32,3 +32,4 @@ Additionally, we tried implementing some comparison metrics for the embedding mo
 * CADE and CADE analysis contains the W2V implementation and the alignment.
 * gloVe contains the glove implementaion.
 * simple_word_embeddings_comparison and geometrical_comparison implement our comparison between W2V and gloVe embeddings. 
+<!-- Useless comment for commit -->
